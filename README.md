@@ -6,8 +6,8 @@ A full-stack web application that allows users to create, edit, and download pro
 
 ## 🚀 Live Demo
 
-- **Frontend:** [resume-builder.vercel.app](https://resume-builder.vercel.app)
-- **Backend:** [resume-builder-server-a58j.onrender.com](https://resume-builder-server-a58j.onrender.com)
+- **Frontend:** [resume-builder.vercel.app](https://resume-builder-mu-livid.vercel.app) 
+- **Backend:** [resume-builder-server-a58j.onrender.com](https://resume-builder-server-a58j.onrender.com) 
 
 ---
 
@@ -187,17 +187,9 @@ npm run dev
 
 ## 🚢 Deployment
 
-- **Frontend** deployed on [Vercel](https://vercel.com)
-- **Backend** deployed on [Render](https://render.com)
-- **Database** hosted on [MongoDB Atlas](https://www.mongodb.com/atlas)
+- **Frontend** deployed on [Vercel](https://resume-builder-mu-livid.vercel.app) 
+- **Backend** deployed on [Render](https://resume-builder-server-a58j.onrender.com) 
 
----
-
-## 📸 Screenshots
-
-> Add screenshots of your app here
-
----
 
 ## 👨‍💻 Author
 
@@ -205,8 +197,6 @@ npm run dev
 - GitHub: [@sidharth-webdev](https://github.com/sidharth-webdev)
 - Email: shidharthpradhan999@gmail.com
 
----
 
-## 📝 License
+## 📸 Screenshots
 
-This project is open source and available under the [MIT License](LICENSE).
