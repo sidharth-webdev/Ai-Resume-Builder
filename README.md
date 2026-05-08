@@ -1,3 +1,8 @@
+<img width="1920" height="1080" alt="Screenshot 2026-05-09 005632" src="https://github.com/user-attachments/assets/f62c9a97-bc62-4f29-85e0-64110e69ab83" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-09 005400" src="https://github.com/user-attachments/assets/48348ec2-d0f9-40f2-816f-258464dca6b4" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-09 005223" src="https://github.com/user-attachments/assets/570ce582-66c9-44ab-86cb-1626c0dfc373" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-09 005055" src="https://github.com/user-attachments/assets/0168d77c-0e49-4523-8134-55d94bcc4958" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-09 003905" src="https://github.com/user-attachments/assets/1c27907a-9d22-40c2-98be-ac65ad030893" />
 # 📄 AI-Powered Resume Builder
 
 A full-stack web application that allows users to create, edit, and download professional resumes with the help of Google Gemini AI. Users can build resumes from scratch or upload an existing PDF and let AI extract and structure the data automatically.
