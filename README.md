@@ -207,7 +207,3 @@ npm run dev
 **Sidharth Sankar Pradhan**
 - GitHub: [@sidharth-webdev](https://github.com/sidharth-webdev)
 - Email: shidharthpradhan999@gmail.com
-
-
-## 📸 Screenshots
-
