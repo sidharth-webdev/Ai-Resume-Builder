@@ -166,7 +166,7 @@ const ResumeBuilder = () => {
                      Next <ChevronRight className='size-4'/>  
                     </button> 
                  </div>  
-              </div>
+              </div> 
                 {/*form comment */}
 
              <div className='space-y-6'>
